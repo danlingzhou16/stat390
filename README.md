@@ -23,3 +23,15 @@ Univariate Prophet: Mingyi_Univariate_Prophet.ipynb <br>
 Multivariate Prophet: Mingyi_Multivariate_Prophet.ipynb <br>
 XGBoost: Mingyi_xgboost.ipynb <br>
 LSTM: Mingyi_LSTM.ipynb <br>
+
+## Grace Zhu
+Grace Zhu's code files for all six models in final report are named as follows. They were merged into the main branch on Dec 09, 2023. <br>
+ARIMA: Grace_Zhu_ARIMA.ipynb <br>
+Auto ARIMA: Grace_Zhu_Auto_Arima.ipynb <br>
+Prophet(Univariate): Grace_Zhu_Prophet(Univariate).ipynb <br>
+Prophet(Multivariate): Grace_Zhu_Prophet(Multivariate).ipynb <br>
+LSTM: Grace_Zhu_LSTM.ipynb <br>
+XGBoost: Grace_Zhu_XGBoost.ipynb <br>
+
+Other major data preprocessing efforts: <br>
+Feature Enginnering
